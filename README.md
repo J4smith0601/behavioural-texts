@@ -38,10 +38,9 @@ This project applied experimental A/B testing and statistical analysis to evalua
 project-root/
 ├── data/                         # Anonymised sample datasets
 ├── analysis/                     # Scripts for cleaning, visualisation, statistical tests
-├── project_report.pdf            # Full write-up with methods, results, ethics & limitations
+├── project_report.pdf            # Full write-up with methods, results etc
 ├── stakeholder_presentation.pdf # Slide deck for non-technical audience
 ├── README.md                     # Project overview (this file)
-├── requirements.txt              # Python dependencies
 ```
 
 ## 🔍 Future Improvements
