@@ -1,0 +1,38 @@
+﻿,,April,,,May,,
+Clinic,Condition,Consults,No_Shows,Showed_Up,Consults,No_Shows,Showed_Up
+Clapham South,Control,19,5,14,22,6,16
+Clapham South,ClientName,19,1,18,22,1,21
+Clapham South,SchedulerName,19,2,17,22,1,21
+Clapham South,Reciprocity,19,2,17,22,2,20
+Tower Bridge,Control,13,3,10,13,4,9
+Tower Bridge,ClientName,13,3,10,13,1,12
+Tower Bridge,SchedulerName,13,2,11,13,0,13
+Tower Bridge,Reciprocity,13,4,9,13,1,12
+Wimbledon Village,Control,15,5,10,12,5,7
+Wimbledon Village,ClientName,15,3,12,12,1,11
+Wimbledon Village,SchedulerName,15,2,13,12,0,12
+Wimbledon Village,Reciprocity,15,1,14,12,2,10
+Liverpool St,Control,12,5,7,11,5,6
+Liverpool St,ClientName,12,3,9,11,1,10
+Liverpool St,SchedulerName,12,2,10,11,0,11
+Liverpool St,Reciprocity,12,2,10,11,0,11
+Esher,Control,11,3,8,14,5,9
+Esher,ClientName,11,3,8,14,2,12
+Esher,SchedulerName,11,2,9,14,1,13
+Esher,Reciprocity,11,0,11,14,1,13
+Bushey,Control,15,5,10,17,6,11
+Bushey,ClientName,15,3,12,17,1,16
+Bushey,SchedulerName,15,3,12,17,1,16
+Bushey,Reciprocity,15,3,12,17,1,16
+Putney Bridge,Control,12,4,8,16,4,12
+Putney Bridge,ClientName,12,5,7,16,3,13
+Putney Bridge,SchedulerName,12,3,9,16,1,15
+Putney Bridge,Reciprocity,12,3,9,16,1,15
+Belgravia,Control,14,5,9,19,4,15
+Belgravia,ClientName,14,2,12,19,0,19
+Belgravia,SchedulerName,14,1,13,19,2,17
+Belgravia,Reciprocity,14,2,12,19,0,19
+Hanwell,Control,10,2,8,12,5,7
+Hanwell,ClientName,10,3,7,12,1,11
+Hanwell,SchedulerName,10,1,9,12,0,12
+Hanwell,Reciprocity,10,1,9,12,1,11
